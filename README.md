@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently learning full-stack 
+🌱 I’m currently learning Embedded System
 
 📫 How to reach me: suz900611@gmail.com
 
