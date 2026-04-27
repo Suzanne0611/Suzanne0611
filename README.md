@@ -13,8 +13,8 @@
 ---
 
 ### 專長與技術實踐
-* **Linux Driver Development **：從零開始讓驅動程式動起來，熟悉 Character Device Driver 與內核模組開發。
-* **FreeRTOS 多工編排 **：在嵌入式系統上實現精確的多工邏輯，確保任務調度的高效與穩定。
+* **Linux Driver Development**：從零開始讓驅動程式動起來，熟悉 Character Device Driver 與內核模組開發。
+* **FreeRTOS 多工編排**：在嵌入式系統上實現精確的多工邏輯，確保任務調度的高效與穩定。
 * **硬體時序控制優化**：以第一原理重新定義時序，捨棄不穩定的 CPU Bit-banging，改用 **PIO (Programmable I/O) 狀態機** 精確掌握 800kHz 脈衝，解決訊號抖動問題。
 
 ---
